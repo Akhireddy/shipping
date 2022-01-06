@@ -2,7 +2,7 @@
 
 // Variables
 env.COMPONENT = "shipping"
-env.BUILD_LABEL = "WORKER2"
+env.BUILD_LABEL = "WORKSTATION"
 
 // Library Groovy file
 java()
